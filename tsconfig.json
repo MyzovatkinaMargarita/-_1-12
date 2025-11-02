@@ -1,0 +1,28 @@
+   //урок 1-2
+{
+  "compilerOptions": {
+   
+    "target": "ES2020",
+    "module": "esnext",
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "types": [],
+   
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "jsx": "react-jsx",
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+  }
+  
+}
